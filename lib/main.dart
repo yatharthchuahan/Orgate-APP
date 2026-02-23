@@ -14,7 +14,7 @@ import 'Screens/loginScreen.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   runApp(const OrangtreApp());
-}
+}   
 
 class OrangtreApp extends StatelessWidget {
   const OrangtreApp({super.key});
